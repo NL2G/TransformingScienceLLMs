@@ -70,25 +70,6 @@ For a detailed introduction, please refer to [our survey paper](https://arxiv.or
 
 # 🔍 Literature Search, Summarization, and Comparison
 
-<style> 
-    table {
-        border-collapse: collapse;
-        width: 100%;
-    }
-    th {
-        position: sticky;
-        top: 0;
-        background: rgb(86, 220, 230);
-        color: rgb(0, 0, 0);
-        z-index: 2;
-    }
-        th, td {
-        border: 1px solid black;
-        padding: 8px;
-        text-align: center;
-    }
-</style>
-
 ## AI-Enhanced Search
 | Platform | Search | Reco-mmen-dations | Collec-tions | Citation Analysis | Trending Analysis | Author Profiles | Visual-ization Tools | Paper Chat | Idea Gener-ation | Paper Writing | Summa-rization | Paper Review | Data-sets | Code Reposi-tories | LLM Inte-gration | Web API | Personal-ization | Free |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
