@@ -17,7 +17,7 @@ This repository is a collection of the most influential papers, AI models, and t
 ## 📢 Updates
 
 - **2024-01**: Our conference paper, **[AutomaTikZ: Text-Guided Synthesis of Scientific Vector Graphics with TikZ](https://openreview.net/forum?id=v3K5TVP8kZ)** has been accepted at ![](https://img.shields.io/badge/ICLR-2024-blue)
-- **2024-09**: Our conference paper, **[DeTikZify: Synthesizing Graphics Programs for Scientific Figures and Sketches with TikZ](https://openreview.net/forum?id=bcVLFQCOjc)** has been accepted at ![](https://img.shields.io/badge/NeurIPS-2024-blue) as a <span style='color: red;'>Spotlight Paper</span>
+- **2024-09**: Our conference paper, **[DeTikZify: Synthesizing Graphics Programs for Scientific Figures and Sketches with TikZ](https://openreview.net/forum?id=bcVLFQCOjc)** has been accepted at ![](https://img.shields.io/badge/NeurIPS-2024-blue) as a Spotlight Paper
 - **2025-01**: Our conference paper, **[ScImage: How Good Are Multimodal Large Language Models at Scientific Text-to-Image Generation?](https://openreview.net/forum?id=ugyqNEOjoU)** has been accepted at ![](https://img.shields.io/badge/ICLR-2025-blue)
 - **2025-02**: Our survey paper, **[Transforming Science with Large Language Models](https://arxiv.org/abs/2502.05151)**, is now available on ![](https://img.shields.io/badge/arXiv-2025.02-red?logo=arxiv)
 
