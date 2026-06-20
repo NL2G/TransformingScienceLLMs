@@ -19,7 +19,11 @@ This repository is a collection of the most influential papers, AI models, and t
 - **2024-01**: Our conference paper, **[AutomaTikZ: Text-Guided Synthesis of Scientific Vector Graphics with TikZ](https://openreview.net/forum?id=v3K5TVP8kZ)** has been accepted at ![](https://img.shields.io/badge/ICLR-2024-blue)
 - **2024-09**: Our conference paper, **[DeTikZify: Synthesizing Graphics Programs for Scientific Figures and Sketches with TikZ](https://openreview.net/forum?id=bcVLFQCOjc)** has been accepted at ![](https://img.shields.io/badge/NeurIPS-2024-blue) as a Spotlight Paper
 - **2025-01**: Our conference paper, **[ScImage: How Good Are Multimodal Large Language Models at Scientific Text-to-Image Generation?](https://openreview.net/forum?id=ugyqNEOjoU)** has been accepted at ![](https://img.shields.io/badge/ICLR-2025-blue)
-- **2025-02**: Our survey paper, **[Transforming Science with Large Language Models](https://arxiv.org/abs/2502.05151)**, is now available on ![](https://img.shields.io/badge/arXiv-2025.02-red?logo=arxiv)
+- **2025-06**: Our conference paper, **[TikZero: Zero-Shot Text-Guided Graphics Program Synthesis](https://openaccess.thecvf.com/content/ICCV2025/papers/Belouadi_TikZero_Zero-Shot_Text-Guided_Graphics_Program_Synthesis_ICCV_2025_paper)** has been accepted at ![](https://img.shields.io/badge/ICCV-2025-blue)
+- **2025-12**: Our tutorial, AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation has been accepted at ![](https://img.shields.io/badge/EACL-2025-blue)
+- **2026-01**: Our conference paper, **[TikZilla: Scaling Text-to-TikZ with High-Quality Data and Reinforcement Learning](https://openreview.net/forum?id=rJv2byEWA3)** has been accepted at ![](https://img.shields.io/badge/ICLR-2026-blue)
+- **2026-03**: Our conference paper, **[TSCIEval: Evaluating and Benchmarking the Faithfulness of Scientific Image Generation and Interpretation with Large Multimodal Models](https://openaccess.thecvf.com/content/CVPR2026/papers/Ye_SCIEval_Evaluating_and_Benchmarking_the_Faithfulness_of_Scientific_Image_Generation_CVPR_2026_paper)** has been accepted at ![](https://img.shields.io/badge/CVPR-2026-blue)
+- **2026-04**: Our survey paper, **[Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation](https://arxiv.org/abs/2502.05151)**, has been accepted at ![](https://img.shields.io/badge/ACM-Computing-Surveys-2026-green)
 
 <!-- omit in toc -->
 ## 👀 Introduction
