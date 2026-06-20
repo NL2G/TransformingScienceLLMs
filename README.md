@@ -23,7 +23,7 @@ This repository is a collection of the most influential papers, AI models, and t
 - **2025-12**: Our tutorial, AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation has been accepted at ![](https://img.shields.io/badge/EACL-2025-blue)
 - **2026-01**: Our conference paper, **[TikZilla: Scaling Text-to-TikZ with High-Quality Data and Reinforcement Learning](https://openreview.net/forum?id=rJv2byEWA3)** has been accepted at ![](https://img.shields.io/badge/ICLR-2026-blue)
 - **2026-03**: Our conference paper, **[TSCIEval: Evaluating and Benchmarking the Faithfulness of Scientific Image Generation and Interpretation with Large Multimodal Models](https://openaccess.thecvf.com/content/CVPR2026/papers/Ye_SCIEval_Evaluating_and_Benchmarking_the_Faithfulness_of_Scientific_Image_Generation_CVPR_2026_paper)** has been accepted at ![](https://img.shields.io/badge/CVPR-2026-blue)
-- **2026-04**: Our survey paper, **[Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation](https://arxiv.org/abs/2502.05151)**, has been accepted at ![](https://img.shields.io/badge/ACM-Computing-Surveys-2026-green)
+- **2026-04**: Our survey paper, **[Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation](https://arxiv.org/abs/2502.05151)**, has been accepted at ![](https://img.shields.io/badge/ACM-2026-green)
 
 <!-- omit in toc -->
 ## 👀 Introduction
